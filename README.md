@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TottyAmadeus
+- 👀 Student / Novice Programmer
+- 🌱 Web Development / C# and Python
+- 💞️ I’m looking to collaborate on innovative projects !
+- 📫 Email me on pedrosousa084@hotmail.com
