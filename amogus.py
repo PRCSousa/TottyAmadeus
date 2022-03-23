@@ -2,6 +2,7 @@ import turtle
 
 def among_us(escala):
 
+
     amogus = turtle.Turtle()
     amogus.color("red")
     amogus.speed(10)
@@ -53,5 +54,5 @@ def among_us(escala):
     amogus.right(90)
     amogus.forward(30*escala)
 
-
-among_us(4)
+while True:
+    among_us(4)
