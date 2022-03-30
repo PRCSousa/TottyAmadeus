@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @TottyAmadeus
-- 👀 Student / Novice Programmer
-- 🌱 Artificial Intelligence  / C and Python
-- 💞️ I’m looking to collaborate on innovative projects !
-- 📫 Email me on pedrosousa084@hotmail.com
+- Student / Novice Programmer
+- Artificial Intelligence  / C and Python
+- Data Analysis might be the way to go
