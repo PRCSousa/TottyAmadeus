@@ -1,3 +1,2 @@
 - Student / Novice Programmer
 - Artificial Intelligence  / C and Python
-- Data Analysis might be the way to go
